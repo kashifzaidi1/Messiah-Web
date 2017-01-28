@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
 	<head>
-		<meta charset="utf-8" />
+		<meta charset="utf-8" />      // "change made"
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Messiah | Features</title>
 		<link rel="stylesheet" href="css/foundation.css" />
@@ -66,9 +66,6 @@
 									<li><a href="features.php">Features</a></li>
 									<li class="divider"></li>
 									<li><a href="team.php">Team</a></li>
-									<li class="divider"></li>
-									<li><a href="contact.php">Contact Us</a></li>
-									<li class="divider"></li>
 								</ul>
 							</section>
 						</nav>
