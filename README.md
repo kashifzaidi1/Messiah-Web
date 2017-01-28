@@ -1,5 +1,4 @@
-# Welcome to Messiah (Emergency Alert Messanger)! areej
-=================================================
+# Welcome to Messiah (Emergency Alert Messanger)! Touba areej
 Here is what you need to know.
 
 1. This application is open source, you can contribute to it on [GitHub](https://github.com/codeforpakistan/Messiah-Web).
