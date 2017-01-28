@@ -66,9 +66,6 @@
 									<li><a href="features.php">Features</a></li>
 									<li class="divider"></li>
 									<li><a href="team.php">Team</a></li>
-									<li class="divider"></li>
-									<li><a href="contact.php">Contact Us</a></li>
-									<li class="divider"></li>
 								</ul>
 							</section>
 						</nav>
